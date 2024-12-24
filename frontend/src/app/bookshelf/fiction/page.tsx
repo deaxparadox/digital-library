@@ -5,12 +5,12 @@ function page() {
   return (
     <div>
       <div>
-      <AppleCardsCarouselDemo/>
+        <AppleCardsCarouselDemo />
       </div>
       <div>
-      <AppleCardsCarouselDemo/>
+        <AppleCardsCarouselDemo />
       </div>
-      
+
     </div>
   )
 }
